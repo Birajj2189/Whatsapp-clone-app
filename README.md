@@ -75,24 +75,22 @@ Follow these steps to run the app on your local environment:
 
 ## Screenshots and Demo
 
-### Home Screen
-*Placeholder for screenshot*
+### App Screenshots
+![WhatsApp Image 2024-11-21 at 10 52 22_26284346](https://github.com/user-attachments/assets/c54f3822-d880-48db-ab52-bd55e4aa8f4d)
+![WhatsApp Image 2024-11-21 at 10 52 22_7bf05bec](https://github.com/user-attachments/assets/aba5f4b2-dd76-4ad6-8555-935a206dafcf)
+![Uploading WhatsApp Image 2024-11-21 at 10.52.22_20677a84.jpg…]()
+![WhatsApp Image 2024-11-21 at 10 52 23_693e0ea1](https://github.com/user-attachments/assets/cc93b100-02a6-43a8-bdb5-8c78520f8301)
+![WhatsApp Image 2024-11-21 at 10 52 23_5c1e46be](https://github.com/user-attachments/assets/a13f2fc6-57b7-467b-9fa4-244c74493f6f)
+![WhatsApp Image 2024-11-21 at 10 52 24_d0aa6380](https://github.com/user-attachments/assets/71c63d1b-04fe-4f3d-9d6b-73ca1696f65e)
+![WhatsApp Image 2024-11-21 at 10 52 24_87c42ccf](https://github.com/user-attachments/assets/1d4329ef-cd1f-42b7-a2c0-b065e581fc4a)
+![WhatsApp Image 2024-11-21 at 10 52 24_42affbb2](https://github.com/user-attachments/assets/172083e5-bba6-4482-a3a0-d751814521be)
+![WhatsApp Image 2024-11-21 at 10 52 25_59ba67f2](https://github.com/user-attachments/assets/45bdde6d-5610-48ae-bc48-73517758fb73)
+![WhatsApp Image 2024-11-21 at 10 52 25_781e58a7](https://github.com/user-attachments/assets/146ae229-7f84-45fb-a85d-a2fdd05ec1c9)
+![WhatsApp Image 2024-11-21 at 10 52 25_29a252f2](https://github.com/user-attachments/assets/316541e4-0484-45b0-b885-7780cb3dd49d)
 
-### Chats
-*Placeholder for screenshot*
-
-### Calls
-*Placeholder for screenshot*
-
-### Settings
-*Placeholder for screenshot*
-
-### Status
-*Placeholder for screenshot*
 
 ### App Demo
-![Video Demo](https://github.com/user-attachments/assets/fa5a07c5-9ecb-4f5c-92e9-94bfb1d71d8d)
-[Watch the video](https://drive.google.com/file/d/1m5Pi7It1tFoYeETb7linCZu7FhSAnl-m/view?usp=drivesdk)
+[Watch the demo](https://drive.google.com/file/d/1m5Pi7It1tFoYeETb7linCZu7FhSAnl-m/view?usp=drivesdk)
 
 
 ---
