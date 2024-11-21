@@ -80,8 +80,7 @@ Follow these steps to run the app on your local environment:
 
 
 ### App Demo
-[Watch the demo](https://drive.google.com/file/d/1m5Pi7It1tFoYeETb7linCZu7FhSAnl-m/view?usp=drivesdk)
-
+[![Watch the demo](https://github.com/user-attachments/assets/4d9d4ddf-2ebf-4888-9afd-0b640a60901f)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
