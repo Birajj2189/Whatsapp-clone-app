@@ -1,50 +1,124 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+---
 
-1. Install dependencies
+# WhatsApp Clone App
 
+This is a **WhatsApp Clone** application built using **React Native**. It incorporates a fresh and modern design, showcasing my learning journey in mobile application development and design. The app includes all the essential features like chats, calls, settings, and status screens, with smooth transitions powered by **React Native Reanimated**.
+
+---
+
+## Features
+
+### Authentication with Clerk
+- Phone number validation via **OTP** for secure login.
+- Integration with **Clerk** ensures seamless user authentication.
+
+### Redesigned UI
+- Fresh and cool look, reimagining WhatsApp's traditional interface.
+- Improved user experience with a clean and modern design.
+
+### Screens
+1. **Chats**
+   - Displays a list of conversations.
+   - Dummy data integrated from a custom database.
+2. **Calls**
+   - Overview of recent call logs with user details.
+3. **Status**
+   - Share and view statuses with cool transitions.
+4. **Settings**
+   - Customize preferences, account info, and more.
+
+### Smooth Transitions
+- Built with **React Native Reanimated** to provide a fluid and engaging user experience.
+
+---
+
+## Technologies Used
+- **React Native**: Cross-platform mobile application development.
+- **Clerk**: Authentication and user management.
+- **React Native Reanimated**: For smooth transitions and animations.
+- **Custom Database**: Dummy data integration for learning purposes.
+
+---
+
+## Installation
+
+Follow these steps to run the app on your local environment:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Birajj2189/Whatsapp-clone-app.git
+   cd Whatsapp-clone-app
+   ```
+
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Set up environment variables:
+   - Create a `.env` file in the root directory.
+   - Add your **Clerk** API key and other necessary configuration.
 
-   ```bash
-    npx expo start
-   ```
+4. Run the app:
+   - For iOS:
+     ```bash
+     npx react-native run-ios
+     ```
+   - For Android:
+     ```bash
+     npx expo start
+     ```
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Screenshots and Demo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Home Screen
+*Placeholder for screenshot*
 
-## Get a fresh project
+### Chats
+*Placeholder for screenshot*
 
-When you're ready, run:
+### Calls
+*Placeholder for screenshot*
 
-```bash
-npm run reset-project
-```
+### Settings
+*Placeholder for screenshot*
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Status
+*Placeholder for screenshot*
 
-## Learn more
+### Smooth Transitions
+*Placeholder for screen recording*
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Contributing
 
-## Join the community
+This project is for personal learning, but contributions and suggestions are welcome!  
+Feel free to fork the repo, make changes, and submit a pull request.
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## License
+
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+---
+
+## Author
+
+Developed by [Birajj2189](https://github.com/Birajj2189).  
+Connect with me for feedback, suggestions, or collaboration ideas! 
+
+---
+
+## Notes
+
+- The app uses **dummy data** and is intended for learning purposes.
+
+--- 
+
+This README provides a structured overview of your project. Once you add screenshots or recordings, you can replace the placeholders with actual visuals.
