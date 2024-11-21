@@ -72,7 +72,19 @@ Follow these steps to run the app on your local environment:
 ## Screenshots and Demo
 
 ### App Screenshots
-<div align="center"> <img src="https://github.com/user-attachments/assets/c54f3822-d880-48db-ab52-bd55e4aa8f4d" width="300"/> <img src="https://github.com/user-attachments/assets/aba5f4b2-dd76-4ad6-8555-935a206dafcf" width="300"/> <img src="https://github.com/user-attachments/assets/75057cbe-ee00-4c04-bb16-e22e2b8e0eb9" width="300"/> <img src="https://github.com/user-attachments/assets/cc93b100-02a6-43a8-bdb5-8c78520f8301" width="300"/> <img src="https://github.com/user-attachments/assets/a13f2fc6-57b7-467b-9fa4-244c74493f6f" width="300"/> <img src="https://github.com/user-attachments/assets/71c63d1b-04fe-4f3d-9d6b-73ca1696f65e" width="300"/> <img src="https://github.com/user-attachments/assets/1d4329ef-cd1f-42b7-a2c0-b065e581fc4a" width="300"/> <img src="https://github.com/user-attachments/assets/172083e5-bba6-4482-a3a0-d751814521be" width="300"/> <img src="https://github.com/user-attachments/assets/45bdde6d-5610-48ae-bc48-73517758fb73" width="300"/> <img src="https://github.com/user-attachments/assets/146ae229-7f84-45fb-a85d-a2fdd05ec1c9" width="300"/> </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+   <img src="https://github.com/user-attachments/assets/c54f3822-d880-48db-ab52-bd55e4aa8f4d" width="300"/> 
+   <img src="https://github.com/user-attachments/assets/aba5f4b2-dd76-4ad6-8555-935a206dafcf" width="300"/> 
+   <img src="https://github.com/user-attachments/assets/75057cbe-ee00-4c04-bb16-e22e2b8e0eb9" width="300"/> 
+   <img src="https://github.com/user-attachments/assets/cc93b100-02a6-43a8-bdb5-8c78520f8301" width="300"/> 
+   <img src="https://github.com/user-attachments/assets/a13f2fc6-57b7-467b-9fa4-244c74493f6f" width="300"/> 
+   <img src="https://github.com/user-attachments/assets/71c63d1b-04fe-4f3d-9d6b-73ca1696f65e" width="300"/> 
+   <img src="https://github.com/user-attachments/assets/1d4329ef-cd1f-42b7-a2c0-b065e581fc4a" width="300"/> 
+   <img src="https://github.com/user-attachments/assets/172083e5-bba6-4482-a3a0-d751814521be" width="300"/> 
+   <img src="https://github.com/user-attachments/assets/45bdde6d-5610-48ae-bc48-73517758fb73" width="300"/> 
+   <img src="https://github.com/user-attachments/assets/146ae229-7f84-45fb-a85d-a2fdd05ec1c9" width="300"/> 
+   <img src="https://github.com/user-attachments/assets/09409056-6f63-48d8-8aaf-88bf063cd359" width="300"/> 
+</div>
 
 
 ### App Demo
