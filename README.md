@@ -90,8 +90,10 @@ Follow these steps to run the app on your local environment:
 ### Status
 *Placeholder for screenshot*
 
-### Smooth Transitions
-*Placeholder for screen recording*
+### App Demo
+![Video Demo](https://github.com/user-attachments/assets/fa5a07c5-9ecb-4f5c-92e9-94bfb1d71d8d)
+[Watch the video](https://drive.google.com/file/d/1m5Pi7It1tFoYeETb7linCZu7FhSAnl-m/view?usp=drivesdk)
+
 
 ---
 
