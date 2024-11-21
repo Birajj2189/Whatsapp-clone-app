@@ -1,7 +1,3 @@
-
-
----
-
 # WhatsApp Clone App
 
 This is a **WhatsApp Clone** application built using **React Native**. It incorporates a fresh and modern design, showcasing my learning journey in mobile application development and design. The app includes all the essential features like chats, calls, settings, and status screens, with smooth transitions powered by **React Native Reanimated**.
@@ -80,7 +76,7 @@ Follow these steps to run the app on your local environment:
 
 
 ### App Demo
-[![Watch the demo](https://github.com/user-attachments/assets/4d9d4ddf-2ebf-4888-9afd-0b640a60901f)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the demo](https://github.com/user-attachments/assets/0f594f02-f8a9-4297-bc56-d8ea0cc155a1)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
